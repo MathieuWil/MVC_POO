@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#home {
+    width: 100%;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+}
