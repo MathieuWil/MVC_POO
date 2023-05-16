@@ -1,0 +1,5 @@
+1 - Intégrer Bootstrap dans l'affichage des formulaires et des tableaux
+2 - Finir la partie etudiant et enseignement
+3 - Ajouter un footer et une barre de nav avec icones et textes
+
+Perso - Optimise le code
